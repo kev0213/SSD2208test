@@ -168,6 +168,13 @@ html {
         background-color: #000;
     }
 
+    .SSDnavbar li {
+        border-top: solid 1px #aaa;
+    }
+
+    .SSDnavbar li:nth-child(odd) {
+        border-right: solid 1px #aaa;
+    }
 
 
     #SSDSliderA,
